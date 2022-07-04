@@ -6,7 +6,7 @@ I'm Cristian Lavacude from Colombia, I am an engineer with an excellent set of t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdlavacudeg&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-💼 [Portfolio](https://cdlavacudeg.github.io/)  
+💼 [Portfolio](https://cdlavacudeg.netlify.app/)  
 
 
 [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Github_white.svg' alt='github' height='40'>](https://github.com/cdlavacudeg) 
